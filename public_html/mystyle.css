@@ -1,0 +1,55 @@
+
+#head {
+    width:100%;
+    height: 20%;
+    color: #FFB1FF;
+    text-align:center;
+    padding:5px;
+    font-family: Impact, Charcoal, sans-serif；
+}
+#nav {
+    line-height:30px;
+    background: rgba(192,192,192,0.3);
+    height:100%;
+    width:25%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:70%;
+    float:right;
+    padding:10px; 
+    height:100%;
+}
+#footer {
+    background-color:rgba(192,192,192,0.3);
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+body {
+    background-image: url("http://community.dur.ac.uk/cheng.peng/background/background2.gif");
+}
+.window{ 
+    width:250px; 
+   background-color:#d0def0; 
+    position:absolute; 
+   padding:2px; 
+   margin:5px; 
+   display:none; 
+    } 
+.content{ 
+    height:150px; 
+     background-color:#FFF; 
+    font-size:14px; 
+    overflow:auto; 
+   } 
+    .title{ 
+       padding:2px; 
+        color:#0CF; 
+        font-size:14px; 
+      } 
+ .title img{ 
+       float:right; 
+        } 
